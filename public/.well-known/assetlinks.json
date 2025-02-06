@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_allurls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.xnfinappbrowsersandbox",
+      "sha256_cert_fingerprints": [
+        "CE:E8:64:A9:B7:F3:99:BA:A6:3E:FF:04:3D:5A:1B:24:C1:D8:6F:1B:44:CF:BB:11:1A:0A:F3:4C:83:3D:AF:6A"
+      ]
+    }
+  }
+]
